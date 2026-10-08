@@ -1,4 +1,4 @@
 # Shreenivas-Goundi
 <br>
 this is my first git repository
-author-shreenivas
+author-shreenivas s goundi
